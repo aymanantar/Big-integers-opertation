@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664986315 source:c:\users\compu city\desktop\bigdecimalint\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
